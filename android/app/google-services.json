@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "708085868882",
+    "firebase_url": "https://kopma-uin-suka-db2c7-default-rtdb.firebaseio.com",
+    "project_id": "kopma-uin-suka-db2c7",
+    "storage_bucket": "kopma-uin-suka-db2c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708085868882:android:8cb8c00066f5714ee4728b",
+        "android_client_info": {
+          "package_name": "com.example.kopma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708085868882-sc6otf08s5e67vetbfiugkvkfba3u0os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwLQvIVPMQRjEX-mI_vSE7r7i_pkRyZes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708085868882-sc6otf08s5e67vetbfiugkvkfba3u0os.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708085868882-4u653ilp855c1th14ant2q3hshaac17l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kopma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
