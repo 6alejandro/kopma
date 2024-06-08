@@ -43,7 +43,7 @@ class _MainPageState extends State<MainPage> {
   Widget build(BuildContext context) {
     final List<Widget> widgetOptions = <Widget>[
       const HomePage(),
-      const HistoryPage(),
+      HistoryPage(),
       ProfilePage(userRepository: widget.userRepository,)
     ];
     return Scaffold(
